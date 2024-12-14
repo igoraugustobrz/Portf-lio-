@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        "merriweather": "merriweather",
         "playfair-display": ["playfair-display"], 
       },
     },
